@@ -1,0 +1,21 @@
+﻿<Window x:Class="LoginWithSql.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LoginWithSql"
+        mc:Ignorable="d"
+        Title="Registration" Height="140.75" Width="409.75">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="258*"/>
+            <ColumnDefinition Width="149*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Your Username" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0" Width="90"/>
+        <Label Content="Your Password" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,36,0,0" Width="90"/>
+        <TextBox x:Name="regLoginBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="285" Margin="100,10,0,0" Grid.ColumnSpan="2"/>
+        <Button x:Name="newRegisterBtn" Content="Register" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="55,78,0,0" Click="registerBtn_Click" Grid.Column="1"/>
+        <TextBox x:Name="regPassBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="285" Margin="100,39,0,0" Grid.ColumnSpan="2"/>
+
+    </Grid>
+</Window>

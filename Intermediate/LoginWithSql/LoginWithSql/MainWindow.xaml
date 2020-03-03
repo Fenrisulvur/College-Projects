@@ -1,0 +1,18 @@
+﻿<Window x:Class="LoginWithSql.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LoginWithSql"
+        mc:Ignorable="d"
+        Title="Login" Height="140.341" Width="407.043">
+    <Grid>
+        <Label Content="Username" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0" Width="75"/>
+        <Label Content="Password" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,36,0,0" Width="75"/>
+        <TextBox x:Name="loginBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="300" Margin="85,10,0,0"/>
+        <PasswordBox x:Name="passBox" HorizontalAlignment="Left" Margin="85,41,0,0" VerticalAlignment="Top" Width="300"/>
+        <Button x:Name="registerBtn" Content="Register" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="310,74,0,0" Click="registerBtn_Click"/>
+        <Button x:Name="loginBtn" Content="Login" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="230,74,0,0" Click="loginBtn_Click"/>
+
+    </Grid>
+</Window>
