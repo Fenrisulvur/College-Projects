@@ -1,0 +1,11 @@
+D:\Intro to programming\primecheck\obj\Debug\netcoreapp3.1\primeCheck.csprojAssemblyReference.cache
+D:\Intro to programming\primecheck\obj\Debug\netcoreapp3.1\primeCheck.AssemblyInfoInputs.cache
+D:\Intro to programming\primecheck\obj\Debug\netcoreapp3.1\primeCheck.AssemblyInfo.cs
+D:\Intro to programming\primecheck\bin\Debug\netcoreapp3.1\primeCheck.exe
+D:\Intro to programming\primecheck\bin\Debug\netcoreapp3.1\primeCheck.deps.json
+D:\Intro to programming\primecheck\bin\Debug\netcoreapp3.1\primeCheck.runtimeconfig.json
+D:\Intro to programming\primecheck\bin\Debug\netcoreapp3.1\primeCheck.runtimeconfig.dev.json
+D:\Intro to programming\primecheck\bin\Debug\netcoreapp3.1\primeCheck.dll
+D:\Intro to programming\primecheck\bin\Debug\netcoreapp3.1\primeCheck.pdb
+D:\Intro to programming\primecheck\obj\Debug\netcoreapp3.1\primeCheck.dll
+D:\Intro to programming\primecheck\obj\Debug\netcoreapp3.1\primeCheck.pdb

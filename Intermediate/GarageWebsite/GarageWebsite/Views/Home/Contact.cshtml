@@ -1,0 +1,74 @@
+﻿<!DOCTYPE html>
+<html>
+<body id="body-core" height="100%">
+    <div class="DisplayBlock">
+        @using (Html.BeginForm("Contact", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        {
+            <h1></h1>
+            <p></p>
+            <h3 align="center">Contact Info</h3>
+
+            <address align="center">
+                480 Waupelani Dr<br />
+                State College, PA 16801<br />
+                Phone: 012-345-6789
+            </address>
+
+            <address align="center">
+                <strong>Support:</strong>   <a href="mailto:Support@example.com">coreyfults@gmail.com</a><br />
+            </address>
+
+            <table width="50%" border="0" align="center">
+                <tr>
+                    <td align="right" colspan="2" style="text-align: center"><strong> Please fill out this form to contact us</strong><hr id="hr-split" /></td>
+
+                </tr>
+
+                <tr>
+                    <td align="right">Name :</td>
+                    <td align="left">
+                        <input id="txtName" name="Name" width="250" />
+                    </td>
+                </tr>
+                <tr>
+                    <td align="right">Your Email id  :</td>
+                    <td align="left">
+                        <input id="txttoaddress" name="EmailId" width="250" />
+                    </td>
+                </tr>
+                <tr>
+                    <td align="right">Phone No :</td>
+                    <td align="left">
+                        <input id="txtPhoneno" name="PhoneNo" width="250" />
+                    </td>
+                </tr>
+                <tr>
+                    <td align="right">Subject :</td>
+                    <td align="left">
+                        <input id="txtsubject" name="Subject" width="250"></input>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="right">Message :</td>
+                    <td align="left">
+                        <textarea rows="4" cols="50" name="Message" id="txtmessage"></textarea>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="right">Attachment :</td>
+                    <td align="left">
+                        <input type="file" name="file" />
+                    </td>
+                </tr>
+
+                <tr>
+                    <td align="center" colspan="2">
+                        <input type="submit" text="Send Message" />
+                    </td>
+                </tr>
+            </table>
+        }
+        </div>
+
+</body>
+</html>

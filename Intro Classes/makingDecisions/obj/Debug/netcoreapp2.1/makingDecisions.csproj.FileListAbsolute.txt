@@ -1,0 +1,11 @@
+D:\Intro to programming\makingDecisions\bin\Debug\netcoreapp2.1\makingDecisions.deps.json
+D:\Intro to programming\makingDecisions\bin\Debug\netcoreapp2.1\makingDecisions.runtimeconfig.json
+D:\Intro to programming\makingDecisions\bin\Debug\netcoreapp2.1\makingDecisions.runtimeconfig.dev.json
+D:\Intro to programming\makingDecisions\bin\Debug\netcoreapp2.1\makingDecisions.dll
+D:\Intro to programming\makingDecisions\bin\Debug\netcoreapp2.1\makingDecisions.pdb
+D:\Intro to programming\makingDecisions\obj\Debug\netcoreapp2.1\makingDecisions.csprojAssemblyReference.cache
+D:\Intro to programming\makingDecisions\obj\Debug\netcoreapp2.1\makingDecisions.csproj.CoreCompileInputs.cache
+D:\Intro to programming\makingDecisions\obj\Debug\netcoreapp2.1\makingDecisions.AssemblyInfoInputs.cache
+D:\Intro to programming\makingDecisions\obj\Debug\netcoreapp2.1\makingDecisions.AssemblyInfo.cs
+D:\Intro to programming\makingDecisions\obj\Debug\netcoreapp2.1\makingDecisions.dll
+D:\Intro to programming\makingDecisions\obj\Debug\netcoreapp2.1\makingDecisions.pdb

@@ -1,0 +1,11 @@
+D:\Intro to programming\myLogger\obj\Debug\netcoreapp3.0\myLogger.csprojAssemblyReference.cache
+D:\Intro to programming\myLogger\obj\Debug\netcoreapp3.0\myLogger.AssemblyInfoInputs.cache
+D:\Intro to programming\myLogger\obj\Debug\netcoreapp3.0\myLogger.AssemblyInfo.cs
+D:\Intro to programming\myLogger\bin\Debug\netcoreapp3.0\myLogger.exe
+D:\Intro to programming\myLogger\bin\Debug\netcoreapp3.0\myLogger.deps.json
+D:\Intro to programming\myLogger\bin\Debug\netcoreapp3.0\myLogger.runtimeconfig.json
+D:\Intro to programming\myLogger\bin\Debug\netcoreapp3.0\myLogger.runtimeconfig.dev.json
+D:\Intro to programming\myLogger\bin\Debug\netcoreapp3.0\myLogger.dll
+D:\Intro to programming\myLogger\bin\Debug\netcoreapp3.0\myLogger.pdb
+D:\Intro to programming\myLogger\obj\Debug\netcoreapp3.0\myLogger.dll
+D:\Intro to programming\myLogger\obj\Debug\netcoreapp3.0\myLogger.pdb

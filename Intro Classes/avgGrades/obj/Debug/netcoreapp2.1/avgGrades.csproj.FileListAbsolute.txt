@@ -1,0 +1,11 @@
+D:\Intro to programming\avggrades\obj\Debug\netcoreapp2.1\avgGrades.csprojAssemblyReference.cache
+D:\Intro to programming\avggrades\obj\Debug\netcoreapp2.1\avgGrades.csproj.CoreCompileInputs.cache
+D:\Intro to programming\avggrades\obj\Debug\netcoreapp2.1\avgGrades.AssemblyInfoInputs.cache
+D:\Intro to programming\avggrades\obj\Debug\netcoreapp2.1\avgGrades.AssemblyInfo.cs
+D:\Intro to programming\avggrades\bin\Debug\netcoreapp2.1\avgGrades.deps.json
+D:\Intro to programming\avggrades\bin\Debug\netcoreapp2.1\avgGrades.runtimeconfig.json
+D:\Intro to programming\avggrades\bin\Debug\netcoreapp2.1\avgGrades.runtimeconfig.dev.json
+D:\Intro to programming\avggrades\bin\Debug\netcoreapp2.1\avgGrades.dll
+D:\Intro to programming\avggrades\bin\Debug\netcoreapp2.1\avgGrades.pdb
+D:\Intro to programming\avggrades\obj\Debug\netcoreapp2.1\avgGrades.dll
+D:\Intro to programming\avggrades\obj\Debug\netcoreapp2.1\avgGrades.pdb

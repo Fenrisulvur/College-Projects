@@ -1,0 +1,11 @@
+D:\Intro to programming\pie\bin\Debug\netcoreapp3.0\Pie.exe
+D:\Intro to programming\pie\bin\Debug\netcoreapp3.0\Pie.deps.json
+D:\Intro to programming\pie\bin\Debug\netcoreapp3.0\Pie.runtimeconfig.json
+D:\Intro to programming\pie\bin\Debug\netcoreapp3.0\Pie.runtimeconfig.dev.json
+D:\Intro to programming\pie\bin\Debug\netcoreapp3.0\Pie.dll
+D:\Intro to programming\pie\bin\Debug\netcoreapp3.0\Pie.pdb
+D:\Intro to programming\pie\obj\Debug\netcoreapp3.0\Pie.csprojAssemblyReference.cache
+D:\Intro to programming\pie\obj\Debug\netcoreapp3.0\Pie.AssemblyInfoInputs.cache
+D:\Intro to programming\pie\obj\Debug\netcoreapp3.0\Pie.AssemblyInfo.cs
+D:\Intro to programming\pie\obj\Debug\netcoreapp3.0\Pie.dll
+D:\Intro to programming\pie\obj\Debug\netcoreapp3.0\Pie.pdb

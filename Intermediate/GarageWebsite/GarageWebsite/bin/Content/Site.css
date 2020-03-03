@@ -1,0 +1,312 @@
+﻿body {
+    padding: 0px;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    min-height: 100%;
+    background-image: url('/Content/Imgs/bg.gif') !important;
+    filter: invert(100%);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover
+}
+
+html {
+    position: relative;
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+    min-height: 100%;
+}
+
+#hr-split {
+    background-image: url("https://cdn.stickylife.com/media/catalog/product/cache/1/image/350x350/9df78eab33525d08d6e5fb8d27136e95/0/6/06_black_tire-tread_license-plate.png");
+    background-size: contain;
+    filter: invert(100%);
+    border-color: transparent;
+    opacity: 20%;
+    height: 10px;
+}
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+.DisplayBlock {
+    background-color: rgba(204, 204, 204, 0.3) !important;
+    border-radius: 6px;
+    margin: 20px !important;
+    padding: 20px !important;
+}
+
+.HiddenDisplayBlock {
+    background-color: rgba(204, 204, 204, 0) !important;
+    border-radius: 6px;
+    margin: 20px !important;
+    padding: 20px !important;
+    display: block;
+}
+
+.BlockTest {
+    background-color: rgba(204, 204, 204, 0.5) !important;
+    border-radius: 6px;
+    filter: invert(100%);
+    color: white !important;
+    margin: 20px !important;
+    padding: 20px !important;
+}
+
+
+#wrapper {
+    min-height: 100%;
+    position: relative;
+}
+
+.navbar-fixed-top {
+    border-bottom-left-radius: 19px;
+    border-bottom-right-radius: 19px;
+    opacity:80%;
+}
+
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 45px; /* Needed for fixed headers/menu */
+    padding-bottom: 60px; /* Height of the footer */
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    height: 30px; /* Height of the footer */
+    color:dimgray;
+    filter: invert(100%);
+}
+
+.containerTest {
+    border-bottom-left-radius: 23px;
+    border-top-left-radius: 23px;
+    display: table;
+    width: 100%;
+    height: auto;
+    background-color: rgba(25, 104, 135, .1);
+    filter: invert(100%);
+    margin: 10px 0px;
+}
+
+.containerTest .text2 {
+    display: table-cell;
+    height: 100%;
+    vertical-align: middle;
+    padding-right: 15%;
+    padding-left: 1%;
+    text-indent: hanging;
+    color:rgba(255,255,255,.7);
+}
+
+.containerTest img {
+    display: block;
+    float: right;
+    max-width: 170%;
+}
+
+.containerTest .clear2 {
+    clear: both;
+}
+
+
+
+.containerTest2 {
+    border-bottom-right-radius: 23px;
+    border-top-right-radius: 23px;
+    display: table;
+    width: 100%;
+    height: auto;
+    background-color: rgba(25, 104, 135, .1);
+    filter: invert(100%);
+    margin: 0px 0px;
+}
+
+.containerTest2 .text3 {
+    display: block;
+    height: 100%;
+    vertical-align: middle;
+    padding-right: 1%;
+    padding-left: 36%;
+    padding-top:15px;
+    text-indent: hanging;
+    color: rgba(255,255,255,.7);
+}
+
+.containerTest2 img {
+    display: block;
+    float: left;
+    max-width: 35%;
+    max-height: 25%;
+}
+
+.containerTest2 .clear2 {
+    clear: both;
+}
+
+
+.containerTest3 {
+    border-bottom-left-radius: 23px;
+    border-top-left-radius: 23px;
+    display: table;
+    width: 100%;
+    height: auto;
+    background-color: rgba(25, 104, 135, .1);
+    filter: invert(100%);
+    margin: 10px 0px;
+}
+
+    .containerTest3 .text4 {
+        display: table-cell;
+        height: 100%;
+        width: 86%;
+        vertical-align: middle;
+        padding-right: 25%;
+        padding-top: 15px;
+        padding-left: 1%;
+        text-indent: hanging;
+        color: rgba(255,255,255,.7);
+    }
+
+.containerTest3 img {
+    display: block;
+    float: right;
+    max-width: 170%;
+    max-height:100%;
+}
+
+.containerTest3 .clear2 {
+    clear: both;
+}
+
+
+.containerTest3 img {
+    display: block;
+    float: right;
+    max-width: 170%;
+    max-height: 100%;
+
+}
+
+.containerTest4 {
+    border-radius: 3px;
+    display: table;
+    width: 100%;
+    height: auto;
+    background-color: rgba(25, 104, 135, .05);
+    filter: invert(100%);
+    margin: 10px 0px;
+}
+#image {
+
+}
+
+.left {
+    float: left;
+    margin: 0 .5em .5em 0;
+    filter: invert(100%);
+}
+
+.right {
+    float: right;
+    width: 25%;
+    height: 100%;
+    padding-top: 3.5%;
+    background-color: rgba(204, 204, 204, 0) !important;
+    filter: invert(100%);
+}
+
+#header-test {
+    padding: 15px;
+    margin-top: 8px;
+    background-color: rgba(25, 104, 135, 0.05) !important;
+    border-radius: 8px;
+    border-style: outset;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-color: rgba(25, 104, 135, .3) !important;
+    filter: invert(100%);
+    color: rgba(255, 255, 255, .9) !important;
+    width:100%;
+
+}
+
+#header-test2 {
+    padding: 15px;
+    margin: 15px;
+    background-color: rgba(25, 104, 135, 0.10) !important;
+    border-radius: 8px;
+    border-style: outset;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-color: rgba(25, 104, 135, .3) !important;
+    filter: invert(100%);
+    color: rgba(255, 255, 255, .9) !important;
+    width: 100%;
+    margin-left:50%;
+}
+
+#li-test:hover {
+    background-image: url("https://cdn.discordapp.com/attachments/645082219378901002/682569512674918428/unknown.png") !important;
+    background-size: 500px 500px !important;
+    background-repeat: no-repeat;       
+    height: 500px !important;
+    width: 500px !important;
+    filter: invert(100%);
+
+}
+
+#body-core {
+    overflow: auto;
+    position: absolute;
+    min-height: 100%;
+    min-width: 100%;
+    
+}
+.col-md-1 {
+    width: 50%;
+    height: 20%;
+    filter: invert(100%);
+}
+
+.table {
+    background-color: rgba(55,55,55,.3);
+    filter: invert(100%);
+    color: rgba(255,255,255,.6);
+}
+.table td{
+     color: rgba(255,255,255,.5);
+     font:200;
+}
+.col-md-2 {
+    width: 50%;
+    height: 20%;
+    padding-top: 1%;
+    border-radius: 3px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}

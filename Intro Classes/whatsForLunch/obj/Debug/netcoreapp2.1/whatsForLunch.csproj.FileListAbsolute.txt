@@ -1,0 +1,11 @@
+D:\Intro to programming\whatsForLunch\bin\Debug\netcoreapp2.1\whatsForLunch.deps.json
+D:\Intro to programming\whatsForLunch\bin\Debug\netcoreapp2.1\whatsForLunch.runtimeconfig.json
+D:\Intro to programming\whatsForLunch\bin\Debug\netcoreapp2.1\whatsForLunch.runtimeconfig.dev.json
+D:\Intro to programming\whatsForLunch\bin\Debug\netcoreapp2.1\whatsForLunch.dll
+D:\Intro to programming\whatsForLunch\bin\Debug\netcoreapp2.1\whatsForLunch.pdb
+D:\Intro to programming\whatsForLunch\obj\Debug\netcoreapp2.1\whatsForLunch.csprojAssemblyReference.cache
+D:\Intro to programming\whatsForLunch\obj\Debug\netcoreapp2.1\whatsForLunch.csproj.CoreCompileInputs.cache
+D:\Intro to programming\whatsForLunch\obj\Debug\netcoreapp2.1\whatsForLunch.AssemblyInfoInputs.cache
+D:\Intro to programming\whatsForLunch\obj\Debug\netcoreapp2.1\whatsForLunch.AssemblyInfo.cs
+D:\Intro to programming\whatsForLunch\obj\Debug\netcoreapp2.1\whatsForLunch.dll
+D:\Intro to programming\whatsForLunch\obj\Debug\netcoreapp2.1\whatsForLunch.pdb

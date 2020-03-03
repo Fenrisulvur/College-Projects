@@ -1,0 +1,11 @@
+D:\Intro to programming\betme\bin\Debug\netcoreapp3.1\BetMe.exe
+D:\Intro to programming\betme\bin\Debug\netcoreapp3.1\BetMe.deps.json
+D:\Intro to programming\betme\bin\Debug\netcoreapp3.1\BetMe.runtimeconfig.json
+D:\Intro to programming\betme\bin\Debug\netcoreapp3.1\BetMe.runtimeconfig.dev.json
+D:\Intro to programming\betme\bin\Debug\netcoreapp3.1\BetMe.dll
+D:\Intro to programming\betme\bin\Debug\netcoreapp3.1\BetMe.pdb
+D:\Intro to programming\betme\obj\Debug\netcoreapp3.1\BetMe.csprojAssemblyReference.cache
+D:\Intro to programming\betme\obj\Debug\netcoreapp3.1\BetMe.AssemblyInfoInputs.cache
+D:\Intro to programming\betme\obj\Debug\netcoreapp3.1\BetMe.AssemblyInfo.cs
+D:\Intro to programming\betme\obj\Debug\netcoreapp3.1\BetMe.dll
+D:\Intro to programming\betme\obj\Debug\netcoreapp3.1\BetMe.pdb

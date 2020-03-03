@@ -1,0 +1,11 @@
+D:\Intro to programming\oldestChild\obj\Debug\netcoreapp2.1\oldestChild.csprojAssemblyReference.cache
+D:\Intro to programming\oldestChild\obj\Debug\netcoreapp2.1\oldestChild.csproj.CoreCompileInputs.cache
+D:\Intro to programming\oldestChild\obj\Debug\netcoreapp2.1\oldestChild.AssemblyInfoInputs.cache
+D:\Intro to programming\oldestChild\obj\Debug\netcoreapp2.1\oldestChild.AssemblyInfo.cs
+D:\Intro to programming\oldestChild\bin\Debug\netcoreapp2.1\oldestChild.deps.json
+D:\Intro to programming\oldestChild\bin\Debug\netcoreapp2.1\oldestChild.runtimeconfig.json
+D:\Intro to programming\oldestChild\bin\Debug\netcoreapp2.1\oldestChild.runtimeconfig.dev.json
+D:\Intro to programming\oldestChild\bin\Debug\netcoreapp2.1\oldestChild.dll
+D:\Intro to programming\oldestChild\bin\Debug\netcoreapp2.1\oldestChild.pdb
+D:\Intro to programming\oldestChild\obj\Debug\netcoreapp2.1\oldestChild.dll
+D:\Intro to programming\oldestChild\obj\Debug\netcoreapp2.1\oldestChild.pdb

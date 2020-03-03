@@ -1,0 +1,11 @@
+D:\Intro to programming\forLoop\obj\Debug\netcoreapp2.1\forLoop.csprojAssemblyReference.cache
+D:\Intro to programming\forLoop\obj\Debug\netcoreapp2.1\forLoop.csproj.CoreCompileInputs.cache
+D:\Intro to programming\forLoop\obj\Debug\netcoreapp2.1\forLoop.AssemblyInfoInputs.cache
+D:\Intro to programming\forLoop\obj\Debug\netcoreapp2.1\forLoop.AssemblyInfo.cs
+D:\Intro to programming\forLoop\bin\Debug\netcoreapp2.1\forLoop.deps.json
+D:\Intro to programming\forLoop\bin\Debug\netcoreapp2.1\forLoop.runtimeconfig.json
+D:\Intro to programming\forLoop\bin\Debug\netcoreapp2.1\forLoop.runtimeconfig.dev.json
+D:\Intro to programming\forLoop\bin\Debug\netcoreapp2.1\forLoop.dll
+D:\Intro to programming\forLoop\bin\Debug\netcoreapp2.1\forLoop.pdb
+D:\Intro to programming\forLoop\obj\Debug\netcoreapp2.1\forLoop.dll
+D:\Intro to programming\forLoop\obj\Debug\netcoreapp2.1\forLoop.pdb

@@ -1,0 +1,11 @@
+D:\Intro to programming\inputTest\bin\Debug\netcoreapp2.1\inputTest.deps.json
+D:\Intro to programming\inputTest\bin\Debug\netcoreapp2.1\inputTest.runtimeconfig.json
+D:\Intro to programming\inputTest\bin\Debug\netcoreapp2.1\inputTest.runtimeconfig.dev.json
+D:\Intro to programming\inputTest\bin\Debug\netcoreapp2.1\inputTest.dll
+D:\Intro to programming\inputTest\bin\Debug\netcoreapp2.1\inputTest.pdb
+D:\Intro to programming\inputTest\obj\Debug\netcoreapp2.1\inputTest.csprojAssemblyReference.cache
+D:\Intro to programming\inputTest\obj\Debug\netcoreapp2.1\inputTest.csproj.CoreCompileInputs.cache
+D:\Intro to programming\inputTest\obj\Debug\netcoreapp2.1\inputTest.AssemblyInfoInputs.cache
+D:\Intro to programming\inputTest\obj\Debug\netcoreapp2.1\inputTest.AssemblyInfo.cs
+D:\Intro to programming\inputTest\obj\Debug\netcoreapp2.1\inputTest.dll
+D:\Intro to programming\inputTest\obj\Debug\netcoreapp2.1\inputTest.pdb

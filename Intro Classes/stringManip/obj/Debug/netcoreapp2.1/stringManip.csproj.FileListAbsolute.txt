@@ -1,0 +1,11 @@
+D:\Intro to programming\stringManip\obj\Debug\netcoreapp2.1\stringManip.csprojAssemblyReference.cache
+D:\Intro to programming\stringManip\obj\Debug\netcoreapp2.1\stringManip.csproj.CoreCompileInputs.cache
+D:\Intro to programming\stringManip\obj\Debug\netcoreapp2.1\stringManip.AssemblyInfoInputs.cache
+D:\Intro to programming\stringManip\obj\Debug\netcoreapp2.1\stringManip.AssemblyInfo.cs
+D:\Intro to programming\stringManip\bin\Debug\netcoreapp2.1\stringManip.deps.json
+D:\Intro to programming\stringManip\bin\Debug\netcoreapp2.1\stringManip.runtimeconfig.json
+D:\Intro to programming\stringManip\bin\Debug\netcoreapp2.1\stringManip.runtimeconfig.dev.json
+D:\Intro to programming\stringManip\bin\Debug\netcoreapp2.1\stringManip.dll
+D:\Intro to programming\stringManip\bin\Debug\netcoreapp2.1\stringManip.pdb
+D:\Intro to programming\stringManip\obj\Debug\netcoreapp2.1\stringManip.dll
+D:\Intro to programming\stringManip\obj\Debug\netcoreapp2.1\stringManip.pdb

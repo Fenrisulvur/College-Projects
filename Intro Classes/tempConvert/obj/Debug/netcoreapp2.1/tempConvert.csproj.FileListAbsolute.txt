@@ -1,0 +1,11 @@
+D:\Intro to programming\tempConvert\obj\Debug\netcoreapp2.1\tempConvert.csprojAssemblyReference.cache
+D:\Intro to programming\tempConvert\obj\Debug\netcoreapp2.1\tempConvert.csproj.CoreCompileInputs.cache
+D:\Intro to programming\tempConvert\obj\Debug\netcoreapp2.1\tempConvert.AssemblyInfoInputs.cache
+D:\Intro to programming\tempConvert\obj\Debug\netcoreapp2.1\tempConvert.AssemblyInfo.cs
+D:\Intro to programming\tempConvert\bin\Debug\netcoreapp2.1\tempConvert.deps.json
+D:\Intro to programming\tempConvert\bin\Debug\netcoreapp2.1\tempConvert.runtimeconfig.json
+D:\Intro to programming\tempConvert\bin\Debug\netcoreapp2.1\tempConvert.runtimeconfig.dev.json
+D:\Intro to programming\tempConvert\bin\Debug\netcoreapp2.1\tempConvert.dll
+D:\Intro to programming\tempConvert\bin\Debug\netcoreapp2.1\tempConvert.pdb
+D:\Intro to programming\tempConvert\obj\Debug\netcoreapp2.1\tempConvert.dll
+D:\Intro to programming\tempConvert\obj\Debug\netcoreapp2.1\tempConvert.pdb

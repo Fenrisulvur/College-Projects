@@ -1,0 +1,11 @@
+D:\Intro to programming\myGrep\bin\Debug\netcoreapp3.0\myGrep.exe
+D:\Intro to programming\myGrep\bin\Debug\netcoreapp3.0\myGrep.deps.json
+D:\Intro to programming\myGrep\bin\Debug\netcoreapp3.0\myGrep.runtimeconfig.json
+D:\Intro to programming\myGrep\bin\Debug\netcoreapp3.0\myGrep.runtimeconfig.dev.json
+D:\Intro to programming\myGrep\bin\Debug\netcoreapp3.0\myGrep.dll
+D:\Intro to programming\myGrep\bin\Debug\netcoreapp3.0\myGrep.pdb
+D:\Intro to programming\myGrep\obj\Debug\netcoreapp3.0\myGrep.csprojAssemblyReference.cache
+D:\Intro to programming\myGrep\obj\Debug\netcoreapp3.0\myGrep.AssemblyInfoInputs.cache
+D:\Intro to programming\myGrep\obj\Debug\netcoreapp3.0\myGrep.AssemblyInfo.cs
+D:\Intro to programming\myGrep\obj\Debug\netcoreapp3.0\myGrep.dll
+D:\Intro to programming\myGrep\obj\Debug\netcoreapp3.0\myGrep.pdb

@@ -1,0 +1,11 @@
+D:\Intro to programming\tryCatchAssignment\obj\Debug\netcoreapp3.1\tryCatchAssignment.csprojAssemblyReference.cache
+D:\Intro to programming\tryCatchAssignment\obj\Debug\netcoreapp3.1\tryCatchAssignment.AssemblyInfoInputs.cache
+D:\Intro to programming\tryCatchAssignment\obj\Debug\netcoreapp3.1\tryCatchAssignment.AssemblyInfo.cs
+D:\Intro to programming\tryCatchAssignment\bin\Debug\netcoreapp3.1\tryCatchAssignment.exe
+D:\Intro to programming\tryCatchAssignment\bin\Debug\netcoreapp3.1\tryCatchAssignment.deps.json
+D:\Intro to programming\tryCatchAssignment\bin\Debug\netcoreapp3.1\tryCatchAssignment.runtimeconfig.json
+D:\Intro to programming\tryCatchAssignment\bin\Debug\netcoreapp3.1\tryCatchAssignment.runtimeconfig.dev.json
+D:\Intro to programming\tryCatchAssignment\bin\Debug\netcoreapp3.1\tryCatchAssignment.dll
+D:\Intro to programming\tryCatchAssignment\bin\Debug\netcoreapp3.1\tryCatchAssignment.pdb
+D:\Intro to programming\tryCatchAssignment\obj\Debug\netcoreapp3.1\tryCatchAssignment.dll
+D:\Intro to programming\tryCatchAssignment\obj\Debug\netcoreapp3.1\tryCatchAssignment.pdb

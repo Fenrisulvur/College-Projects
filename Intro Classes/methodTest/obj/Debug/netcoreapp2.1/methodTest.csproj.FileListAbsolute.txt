@@ -1,0 +1,11 @@
+D:\Intro to programming\methodTest\bin\Debug\netcoreapp2.1\methodTest.deps.json
+D:\Intro to programming\methodTest\bin\Debug\netcoreapp2.1\methodTest.runtimeconfig.json
+D:\Intro to programming\methodTest\bin\Debug\netcoreapp2.1\methodTest.runtimeconfig.dev.json
+D:\Intro to programming\methodTest\bin\Debug\netcoreapp2.1\methodTest.dll
+D:\Intro to programming\methodTest\bin\Debug\netcoreapp2.1\methodTest.pdb
+D:\Intro to programming\methodTest\obj\Debug\netcoreapp2.1\methodTest.csprojAssemblyReference.cache
+D:\Intro to programming\methodTest\obj\Debug\netcoreapp2.1\methodTest.csproj.CoreCompileInputs.cache
+D:\Intro to programming\methodTest\obj\Debug\netcoreapp2.1\methodTest.AssemblyInfoInputs.cache
+D:\Intro to programming\methodTest\obj\Debug\netcoreapp2.1\methodTest.AssemblyInfo.cs
+D:\Intro to programming\methodTest\obj\Debug\netcoreapp2.1\methodTest.dll
+D:\Intro to programming\methodTest\obj\Debug\netcoreapp2.1\methodTest.pdb

@@ -1,0 +1,11 @@
+D:\Intro to programming\switcharoo\bin\Debug\netcoreapp3.0\switcharoo.exe
+D:\Intro to programming\switcharoo\bin\Debug\netcoreapp3.0\switcharoo.deps.json
+D:\Intro to programming\switcharoo\bin\Debug\netcoreapp3.0\switcharoo.runtimeconfig.json
+D:\Intro to programming\switcharoo\bin\Debug\netcoreapp3.0\switcharoo.runtimeconfig.dev.json
+D:\Intro to programming\switcharoo\bin\Debug\netcoreapp3.0\switcharoo.dll
+D:\Intro to programming\switcharoo\bin\Debug\netcoreapp3.0\switcharoo.pdb
+D:\Intro to programming\switcharoo\obj\Debug\netcoreapp3.0\switcharoo.csprojAssemblyReference.cache
+D:\Intro to programming\switcharoo\obj\Debug\netcoreapp3.0\switcharoo.AssemblyInfoInputs.cache
+D:\Intro to programming\switcharoo\obj\Debug\netcoreapp3.0\switcharoo.AssemblyInfo.cs
+D:\Intro to programming\switcharoo\obj\Debug\netcoreapp3.0\switcharoo.dll
+D:\Intro to programming\switcharoo\obj\Debug\netcoreapp3.0\switcharoo.pdb

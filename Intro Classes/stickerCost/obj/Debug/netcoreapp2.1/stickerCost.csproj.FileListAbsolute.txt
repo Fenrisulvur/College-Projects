@@ -1,0 +1,11 @@
+D:\Intro to programming\stickerCost\bin\Debug\netcoreapp2.1\stickerCost.deps.json
+D:\Intro to programming\stickerCost\bin\Debug\netcoreapp2.1\stickerCost.runtimeconfig.json
+D:\Intro to programming\stickerCost\bin\Debug\netcoreapp2.1\stickerCost.runtimeconfig.dev.json
+D:\Intro to programming\stickerCost\bin\Debug\netcoreapp2.1\stickerCost.dll
+D:\Intro to programming\stickerCost\bin\Debug\netcoreapp2.1\stickerCost.pdb
+D:\Intro to programming\stickerCost\obj\Debug\netcoreapp2.1\stickerCost.csprojAssemblyReference.cache
+D:\Intro to programming\stickerCost\obj\Debug\netcoreapp2.1\stickerCost.csproj.CoreCompileInputs.cache
+D:\Intro to programming\stickerCost\obj\Debug\netcoreapp2.1\stickerCost.AssemblyInfoInputs.cache
+D:\Intro to programming\stickerCost\obj\Debug\netcoreapp2.1\stickerCost.AssemblyInfo.cs
+D:\Intro to programming\stickerCost\obj\Debug\netcoreapp2.1\stickerCost.dll
+D:\Intro to programming\stickerCost\obj\Debug\netcoreapp2.1\stickerCost.pdb

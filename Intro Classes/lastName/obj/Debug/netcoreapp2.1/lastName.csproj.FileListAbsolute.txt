@@ -1,0 +1,11 @@
+D:\Intro to programming\lastName\obj\Debug\netcoreapp2.1\lastName.csprojAssemblyReference.cache
+D:\Intro to programming\lastName\obj\Debug\netcoreapp2.1\lastName.csproj.CoreCompileInputs.cache
+D:\Intro to programming\lastName\obj\Debug\netcoreapp2.1\lastName.AssemblyInfoInputs.cache
+D:\Intro to programming\lastName\obj\Debug\netcoreapp2.1\lastName.AssemblyInfo.cs
+D:\Intro to programming\lastName\bin\Debug\netcoreapp2.1\lastName.deps.json
+D:\Intro to programming\lastName\bin\Debug\netcoreapp2.1\lastName.runtimeconfig.json
+D:\Intro to programming\lastName\bin\Debug\netcoreapp2.1\lastName.runtimeconfig.dev.json
+D:\Intro to programming\lastName\bin\Debug\netcoreapp2.1\lastName.dll
+D:\Intro to programming\lastName\bin\Debug\netcoreapp2.1\lastName.pdb
+D:\Intro to programming\lastName\obj\Debug\netcoreapp2.1\lastName.dll
+D:\Intro to programming\lastName\obj\Debug\netcoreapp2.1\lastName.pdb

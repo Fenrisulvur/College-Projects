@@ -1,0 +1,11 @@
+D:\Intro to programming\myLottery\obj\Debug\netcoreapp3.0\myLottery.csprojAssemblyReference.cache
+D:\Intro to programming\myLottery\obj\Debug\netcoreapp3.0\myLottery.AssemblyInfoInputs.cache
+D:\Intro to programming\myLottery\obj\Debug\netcoreapp3.0\myLottery.AssemblyInfo.cs
+D:\Intro to programming\myLottery\bin\Debug\netcoreapp3.0\myLottery.exe
+D:\Intro to programming\myLottery\bin\Debug\netcoreapp3.0\myLottery.deps.json
+D:\Intro to programming\myLottery\bin\Debug\netcoreapp3.0\myLottery.runtimeconfig.json
+D:\Intro to programming\myLottery\bin\Debug\netcoreapp3.0\myLottery.runtimeconfig.dev.json
+D:\Intro to programming\myLottery\bin\Debug\netcoreapp3.0\myLottery.dll
+D:\Intro to programming\myLottery\bin\Debug\netcoreapp3.0\myLottery.pdb
+D:\Intro to programming\myLottery\obj\Debug\netcoreapp3.0\myLottery.dll
+D:\Intro to programming\myLottery\obj\Debug\netcoreapp3.0\myLottery.pdb

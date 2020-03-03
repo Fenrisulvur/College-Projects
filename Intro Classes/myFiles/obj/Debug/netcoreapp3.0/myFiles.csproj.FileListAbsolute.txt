@@ -1,0 +1,11 @@
+D:\Intro to programming\myFiles\obj\Debug\netcoreapp3.0\myFiles.csprojAssemblyReference.cache
+D:\Intro to programming\myFiles\obj\Debug\netcoreapp3.0\myFiles.AssemblyInfoInputs.cache
+D:\Intro to programming\myFiles\obj\Debug\netcoreapp3.0\myFiles.AssemblyInfo.cs
+D:\Intro to programming\myFiles\bin\Debug\netcoreapp3.0\myFiles.exe
+D:\Intro to programming\myFiles\bin\Debug\netcoreapp3.0\myFiles.deps.json
+D:\Intro to programming\myFiles\bin\Debug\netcoreapp3.0\myFiles.runtimeconfig.json
+D:\Intro to programming\myFiles\bin\Debug\netcoreapp3.0\myFiles.runtimeconfig.dev.json
+D:\Intro to programming\myFiles\bin\Debug\netcoreapp3.0\myFiles.dll
+D:\Intro to programming\myFiles\bin\Debug\netcoreapp3.0\myFiles.pdb
+D:\Intro to programming\myFiles\obj\Debug\netcoreapp3.0\myFiles.dll
+D:\Intro to programming\myFiles\obj\Debug\netcoreapp3.0\myFiles.pdb

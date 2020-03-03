@@ -1,0 +1,11 @@
+D:\Intro to programming\checkAge\obj\Debug\netcoreapp2.1\checkAge.csprojAssemblyReference.cache
+D:\Intro to programming\checkAge\obj\Debug\netcoreapp2.1\checkAge.csproj.CoreCompileInputs.cache
+D:\Intro to programming\checkAge\obj\Debug\netcoreapp2.1\checkAge.AssemblyInfoInputs.cache
+D:\Intro to programming\checkAge\obj\Debug\netcoreapp2.1\checkAge.AssemblyInfo.cs
+D:\Intro to programming\checkAge\bin\Debug\netcoreapp2.1\checkAge.deps.json
+D:\Intro to programming\checkAge\bin\Debug\netcoreapp2.1\checkAge.runtimeconfig.json
+D:\Intro to programming\checkAge\bin\Debug\netcoreapp2.1\checkAge.runtimeconfig.dev.json
+D:\Intro to programming\checkAge\bin\Debug\netcoreapp2.1\checkAge.dll
+D:\Intro to programming\checkAge\bin\Debug\netcoreapp2.1\checkAge.pdb
+D:\Intro to programming\checkAge\obj\Debug\netcoreapp2.1\checkAge.dll
+D:\Intro to programming\checkAge\obj\Debug\netcoreapp2.1\checkAge.pdb

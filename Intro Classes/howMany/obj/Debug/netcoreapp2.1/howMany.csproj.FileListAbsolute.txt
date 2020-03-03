@@ -1,0 +1,11 @@
+D:\Intro to programming\howMany\obj\Debug\netcoreapp2.1\howMany.csprojAssemblyReference.cache
+D:\Intro to programming\howMany\obj\Debug\netcoreapp2.1\howMany.csproj.CoreCompileInputs.cache
+D:\Intro to programming\howMany\obj\Debug\netcoreapp2.1\howMany.AssemblyInfoInputs.cache
+D:\Intro to programming\howMany\obj\Debug\netcoreapp2.1\howMany.AssemblyInfo.cs
+D:\Intro to programming\howMany\bin\Debug\netcoreapp2.1\howMany.deps.json
+D:\Intro to programming\howMany\bin\Debug\netcoreapp2.1\howMany.runtimeconfig.json
+D:\Intro to programming\howMany\bin\Debug\netcoreapp2.1\howMany.runtimeconfig.dev.json
+D:\Intro to programming\howMany\bin\Debug\netcoreapp2.1\howMany.dll
+D:\Intro to programming\howMany\bin\Debug\netcoreapp2.1\howMany.pdb
+D:\Intro to programming\howMany\obj\Debug\netcoreapp2.1\howMany.dll
+D:\Intro to programming\howMany\obj\Debug\netcoreapp2.1\howMany.pdb

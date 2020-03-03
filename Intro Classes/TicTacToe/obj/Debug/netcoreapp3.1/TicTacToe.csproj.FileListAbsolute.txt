@@ -1,0 +1,11 @@
+D:\Intro to programming\tictactoe\obj\Debug\netcoreapp3.1\TicTacToe.csprojAssemblyReference.cache
+D:\Intro to programming\tictactoe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfoInputs.cache
+D:\Intro to programming\tictactoe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfo.cs
+D:\Intro to programming\tictactoe\bin\Debug\netcoreapp3.1\TicTacToe.exe
+D:\Intro to programming\tictactoe\bin\Debug\netcoreapp3.1\TicTacToe.deps.json
+D:\Intro to programming\tictactoe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.json
+D:\Intro to programming\tictactoe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.dev.json
+D:\Intro to programming\tictactoe\bin\Debug\netcoreapp3.1\TicTacToe.dll
+D:\Intro to programming\tictactoe\bin\Debug\netcoreapp3.1\TicTacToe.pdb
+D:\Intro to programming\tictactoe\obj\Debug\netcoreapp3.1\TicTacToe.dll
+D:\Intro to programming\tictactoe\obj\Debug\netcoreapp3.1\TicTacToe.pdb

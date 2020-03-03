@@ -1,0 +1,11 @@
+D:\Intro to programming\inputTimesTwo\obj\Debug\netcoreapp2.1\inputTimesTwo.csprojAssemblyReference.cache
+D:\Intro to programming\inputTimesTwo\obj\Debug\netcoreapp2.1\inputTimesTwo.csproj.CoreCompileInputs.cache
+D:\Intro to programming\inputTimesTwo\obj\Debug\netcoreapp2.1\inputTimesTwo.AssemblyInfoInputs.cache
+D:\Intro to programming\inputTimesTwo\obj\Debug\netcoreapp2.1\inputTimesTwo.AssemblyInfo.cs
+D:\Intro to programming\inputTimesTwo\bin\Debug\netcoreapp2.1\inputTimesTwo.deps.json
+D:\Intro to programming\inputTimesTwo\bin\Debug\netcoreapp2.1\inputTimesTwo.runtimeconfig.json
+D:\Intro to programming\inputTimesTwo\bin\Debug\netcoreapp2.1\inputTimesTwo.runtimeconfig.dev.json
+D:\Intro to programming\inputTimesTwo\bin\Debug\netcoreapp2.1\inputTimesTwo.dll
+D:\Intro to programming\inputTimesTwo\bin\Debug\netcoreapp2.1\inputTimesTwo.pdb
+D:\Intro to programming\inputTimesTwo\obj\Debug\netcoreapp2.1\inputTimesTwo.dll
+D:\Intro to programming\inputTimesTwo\obj\Debug\netcoreapp2.1\inputTimesTwo.pdb

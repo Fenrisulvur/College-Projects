@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="~/Content/Imgs/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        <title>Camel Tow Autobody</title>
+        @Styles.Render("~/Content/css")
+        @Scripts.Render("~/bundles/modernizr")
+    </head>
+
+    <body id ="body-core" height="100%" width="100%" padding-bottom="30px">
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header" style="background-color: white;border-radius:9px">
+                    <img src="~/Content/Imgs/logo.png" height="50" width="50">
+                </div>
+                <div class="navbar-collapse collapse" >
+                    <ul class="nav navbar-nav" style="position:center;">
+                        <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                        <li>@Html.ActionLink("About", "About", "Home")</li>
+                        <li>@Html.ActionLink("Services", "Services", "Home")</li>
+                        <li>@Html.ActionLink("Contact Us", "Contact", "Home")</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="container body-content">
+            @RenderBody()
+            <hr id="hr-split" />
+        </div>
+
+            
+        <footer id="footer" align="center">
+            @DateTime.Now.Year - Camel Tow Autobody
+        </footer>
+            
+
+        @Scripts.Render("~/bundles/jquery")
+        @Scripts.Render("~/bundles/bootstrap")
+        @RenderSection("scripts", required: false)
+    </body>
+</html>

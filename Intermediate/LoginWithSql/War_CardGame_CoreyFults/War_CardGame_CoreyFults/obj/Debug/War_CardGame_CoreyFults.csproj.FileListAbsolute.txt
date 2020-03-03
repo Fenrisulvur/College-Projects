@@ -1,0 +1,14 @@
+C:\Users\fults\source\repos\War_CardGame_CoreyFults\War_CardGame_CoreyFults\bin\Debug\War_CardGame_CoreyFults.exe.config
+C:\Users\fults\source\repos\War_CardGame_CoreyFults\War_CardGame_CoreyFults\bin\Debug\War_CardGame_CoreyFults.exe
+C:\Users\fults\source\repos\War_CardGame_CoreyFults\War_CardGame_CoreyFults\bin\Debug\War_CardGame_CoreyFults.pdb
+C:\Users\fults\source\repos\War_CardGame_CoreyFults\War_CardGame_CoreyFults\obj\Debug\War_CardGame_CoreyFults.csprojAssemblyReference.cache
+C:\Users\fults\source\repos\War_CardGame_CoreyFults\War_CardGame_CoreyFults\obj\Debug\MainWindow.g.cs
+C:\Users\fults\source\repos\War_CardGame_CoreyFults\War_CardGame_CoreyFults\obj\Debug\App.g.cs
+C:\Users\fults\source\repos\War_CardGame_CoreyFults\War_CardGame_CoreyFults\obj\Debug\War_CardGame_CoreyFults_MarkupCompile.cache
+C:\Users\fults\source\repos\War_CardGame_CoreyFults\War_CardGame_CoreyFults\obj\Debug\War_CardGame_CoreyFults_MarkupCompile.lref
+C:\Users\fults\source\repos\War_CardGame_CoreyFults\War_CardGame_CoreyFults\obj\Debug\MainWindow.baml
+C:\Users\fults\source\repos\War_CardGame_CoreyFults\War_CardGame_CoreyFults\obj\Debug\War_CardGame_CoreyFults.g.resources
+C:\Users\fults\source\repos\War_CardGame_CoreyFults\War_CardGame_CoreyFults\obj\Debug\War_CardGame_CoreyFults.Properties.Resources.resources
+C:\Users\fults\source\repos\War_CardGame_CoreyFults\War_CardGame_CoreyFults\obj\Debug\War_CardGame_CoreyFults.csproj.GenerateResource.cache
+C:\Users\fults\source\repos\War_CardGame_CoreyFults\War_CardGame_CoreyFults\obj\Debug\War_CardGame_CoreyFults.exe
+C:\Users\fults\source\repos\War_CardGame_CoreyFults\War_CardGame_CoreyFults\obj\Debug\War_CardGame_CoreyFults.pdb

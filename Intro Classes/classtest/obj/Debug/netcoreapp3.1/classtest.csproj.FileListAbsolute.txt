@@ -1,0 +1,11 @@
+D:\Intro to programming\classtest\obj\Debug\netcoreapp3.1\classtest.csprojAssemblyReference.cache
+D:\Intro to programming\classtest\obj\Debug\netcoreapp3.1\classtest.AssemblyInfoInputs.cache
+D:\Intro to programming\classtest\obj\Debug\netcoreapp3.1\classtest.AssemblyInfo.cs
+D:\Intro to programming\classtest\bin\Debug\netcoreapp3.1\classtest.exe
+D:\Intro to programming\classtest\bin\Debug\netcoreapp3.1\classtest.deps.json
+D:\Intro to programming\classtest\bin\Debug\netcoreapp3.1\classtest.runtimeconfig.json
+D:\Intro to programming\classtest\bin\Debug\netcoreapp3.1\classtest.runtimeconfig.dev.json
+D:\Intro to programming\classtest\bin\Debug\netcoreapp3.1\classtest.dll
+D:\Intro to programming\classtest\bin\Debug\netcoreapp3.1\classtest.pdb
+D:\Intro to programming\classtest\obj\Debug\netcoreapp3.1\classtest.dll
+D:\Intro to programming\classtest\obj\Debug\netcoreapp3.1\classtest.pdb
