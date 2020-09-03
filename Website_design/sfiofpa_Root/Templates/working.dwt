@@ -1,0 +1,60 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Pennsylvania Sustainable Forestry Initiative®</title>
+<link href="../style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div id="container">
+  <div id="topbar">
+    <p id="topbar-left-text"><a href="../index.html">The Pennsylvania Sustainable Forestry Initiative</a></p>
+    <div id = "topbar-right-container">
+      <p id="topbar-right-text">Toll Free 888-734-936</p>
+      <p id="topbar-fb"><a href="https://www.facebook.com/PennsylvaniaSIC" target="_blank"><img src="../images/fb.png" width="21" height="20" alt=""/></a></p>
+      <p id="topbar-rss"><a href="http://pasfinews.blogspot.com/" target="_blank"><img src="../images/rss.png" width="21" height="20" alt=""/></a></p>
+    </div>
+  </div>
+  <div id="hero"><img src="../images/hero_02.jpg" width="1366" height="80" alt=""/> </div>
+  <div id="navbar">
+    <ul>
+      <li><a href="../loggers.html" target="_self">Loggers</a></li>
+      <li><a href="../landowners.html" target="_self">Forest Landowners</a></li>
+      <li><a href="../news.html" target="_self">News</a></li>
+      <li><a href="../contributors.html" target="_self">Contributors</a></li>
+      <li><a href="../forms.html" target="_self">Forms</a></li>
+      <li><a href="mailto:pasfi@sfiofpa.org" target="_self">Contact Us</a></li>
+    </ul>
+  </div>
+  <!-- TemplateBeginEditable name="Editable-Content" -->
+  <div id="main-content">
+    <div id="intro"> <img class="img-right" src="../images/photo_1.gif" width="576" height="432" alt=""/>
+      <div id="link-box">
+        <ul>
+          <li><a href="https://www.sfiofpa.org/_download_lnk.php?did=5">Sustainable Forestry Initiative, Inc.</a></li>
+          <li><a href="https://www.sfiofpa.org/_download_lnk.php?did=2">PA Legislature's Resolutions</a></li>
+        </ul>
+      </div>
+      <h3>The Pennsylvania Sustainable Forestry Initiative Implementation Committee</h3>
+      <p>&nbsp;</p>
+      <p>Our purpose is to promote wise forest stewardship, enabling Pennsylvania communities to thrive through a successful forest products industry.</p>
+      <p>&nbsp;</p>
+      <p>Therefore, we work hard to support business operations by training and developing the logger workforce, educating the public about the value of working forests, promoting SFI forest certification, and assisting with regulatory issues. Our alliance of deeply committed professionals from across the forestry community builds partnerships with many other conservation organizations who depend on the forest industry to advance their own missions. These relationships allow us to serve with great impact.</p>
+      <p>&nbsp;</p>
+      <p>Sustainable forests, professionals to harvest them, and the legal ability to do so; we believe this to be the heart of conservation and welcome your support!</p>
+    </div>
+  </div>
+  <!-- TemplateEndEditable -->
+  <footer>
+    <div id="footer-left">
+      <p>©2020 Pennsylvania SFI® Implementation Committee</p>
+      <p>Site by: Corey Fults</p>
+    </div>
+    <div id="footer-right">
+      <p>PA SFI® • 211 Barrington Lane • Bellefonte, PA 16823 </p>
+      <p>TOLL FREE: 888.734.9366 • Phone: 814.355.1010 • Fax: 814.355.1022 • Email</p>
+    </div>
+  </footer>
+</div>
+</body>
+</html>
