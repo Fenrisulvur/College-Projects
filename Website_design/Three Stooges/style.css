@@ -1,0 +1,166 @@
+/*
+Variables for color changing certain section colors easy.
+*/
+:root {
+    --text-color: #515151;
+    --title-color: #6F5B75;
+    --name-color: #224277;
+    --background-color: #BDD5E3;
+    --background-color2: #EEEEEE;
+}
+
+/*Tag styles*/
+body {
+    background-color: gray;
+    font-family: Arial;
+}
+
+ul {
+    display: table;
+    margin: 0 auto;
+    padding-right: 175px;
+  }
+
+li {
+    color: var(--text-color);
+    text-align: left;
+    font-family: "Times New Roman";
+    font-size: 18px;
+}
+
+/*Custom Class Styles*/
+.pagesplit1 {
+    height: 1px;
+    color: black;
+    background-color: black;
+    margin-top: -5px;
+}
+
+.pagesplit2 {
+    clear: both;
+    height: 2px;
+    color: black;
+    background-color: black;
+    margin-bottom: -2px;
+    z-index: 5;
+}
+
+.container {
+    color: var(--text-color);
+    width: 1000px;
+    background-color: #EEEEEE;
+    display: inline-block;
+    padding: 0px;
+    padding-top: 0px;
+}
+
+.imgstyle {
+    border-radius: 15px;
+    border-width: 1px;
+    border-color: black;
+    padding: 5px;
+    padding-bottom: 25px;
+}
+
+.imgstyle2 {
+    border-radius: 15px;
+    border-width: 1px;
+    border-color: black;
+    border-style: dotted;
+    padding: 5px;
+}
+
+.nametag {
+    color: var(--name-color);
+    font-family: "Times New Roman";
+    font-size: 24px;
+    font-weight: bolder;
+    padding: 5px;
+}
+
+.filmtag {
+    color: var(--title-color);
+    font-family: "Times New Roman";
+    font-size: 25px;
+    font-weight: bolder;
+    padding: 10px;
+    padding-right: 175px;
+}
+
+.info {
+    font-size: 12px;
+    padding: 5px;
+}
+
+.titleheader {
+    font-size: 40px;
+    font-weight: 800;
+    margin: 25px;
+    color: var(--title-color);
+}
+
+.castimg {
+    background-color: var(--background-color);
+    margin-top: -25px;
+    margin-bottom: 5px;
+}
+
+.content {
+    color: var(--text-color);
+    text-align: left;
+    padding: 10px 10px;
+    font-size: 12px;
+    margin-top: 0px;
+}
+
+.content2 {
+    color: var(--text-color);
+    text-align: left;
+    padding: 10px 10px;
+    font-size: 12px;
+    background-color: var(--background-color);;
+    border-radius: 0px;
+    margin-top: 0px;
+    margin-bottom: -10px;
+	padding-bottom: 30px
+}
+
+.portraitleft {
+    width: 308px;
+    padding: 11px;
+    float: left;
+    background-color: rgba(238,238,238, 0.1);
+    border-radius: 6px;
+    margin: 5px 1px;
+}
+
+.portraitmiddle{
+    width: 308px;
+    padding: 11px;
+    float: left;
+    background-color: rgba(238,238,238, 0.1);
+    border-radius: 6px;
+    margin: 5px 1px;
+}
+
+.portraitright {
+    width: 308px;
+    padding: 11px;
+    float: left;
+    background-color: rgba(238,238,238, 0.1);
+    border-radius: 6px;
+    margin: 5px 1px;
+}
+
+.bottomtag {
+    color: var(--text-color);
+    float: right;
+    padding: 20px;
+    font-size: 12px;
+    text-align: left;
+    margin-top: -60px;
+    margin-right: 55px;
+    margin-bottom: 0px;
+}
+
+
